@@ -1,0 +1,12 @@
+alpha
+brave
+bravo
+coffee
+cookie
+cool
+david
+hello
+java
+john
+now
+world
